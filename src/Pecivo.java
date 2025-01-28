@@ -13,9 +13,6 @@ public void vypis(){
  if(cena > 10){
      System.out.println(nazev);
  }
- else{
-     System.out.println();
- }
 
 }
 
